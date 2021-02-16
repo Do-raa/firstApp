@@ -1,0 +1,56 @@
+dt { 
+    text-align: center; 
+    color:#b67171; 
+    text-shadow: 2px 2px;
+}
+dd { 
+    text-align:left; 
+    color:#5b5b5b; 
+    text-decoration: black;
+}
+
+li { 
+    display:inline; 
+    inline-size: 60 px; 
+    text-shadow:3px 3px rgb(125, 119, 153); 
+    font-size: larger;
+}
+ 
+#ABOUT { 
+    font-family: cursive;  
+    color :black; 
+    font-size: larger; 
+    size:55 px;
+} 
+
+body {  
+    background-color: #d8c292;
+}  
+
+
+#RESUME {  
+    size: 55px; 
+    font-family:cursive;
+    color: black; 
+    font-size: larger;
+} 
+.form { 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;  ; 
+    font-weight: bold ; 
+    border-bottom: 2px solid #00303f ;
+    } 
+.goodbye { 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: chocolate; 
+    size: 100%; 
+    font-weight: bold; 
+    text-align: center;
+} 
+img { 
+    display: flex;  
+    justify-content: space-around;
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 20%; 
+    width: 60%;
+}
